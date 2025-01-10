@@ -1,8 +1,9 @@
 {
-.appVersion = "3260";
+.appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-BLACKLETTER
+BLACKLETTER,
+"/_dot Ä"
 );
 classes = (
 {
@@ -344,7 +345,7 @@ unicode = 65;
 },
 {
 glyphname = Adieresis;
-lastChange = "2024-12-24 12:08:15 +0000";
+lastChange = "2025-01-10 15:54:31 +0000";
 layers = (
 {
 background = {
@@ -468,7 +469,7 @@ nodes = (
 );
 },
 {
-pos = (-60,-180);
+pos = (-40,-180);
 ref = "_corner.Serif.left_wBraille-BOTTOM";
 },
 {
@@ -22182,7 +22183,7 @@ width = 600;
 },
 {
 glyphname = _dot;
-lastChange = "2024-12-25 11:15:06 +0000";
+lastChange = "2025-01-10 16:01:50 +0000";
 layers = (
 {
 layerId = m01;
@@ -22190,17 +22191,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(350,500,o),
-(340,510,o),
+(340,500,o),
+(340,500,o),
 (340,520,cs),
 (340,530,o),
-(350,540,o),
+(340,540,o),
 (360,540,cs),
-(370,540,o),
+(380,540,o),
 (380,530,o),
 (380,520,cs),
-(380,510,o),
-(370,500,o),
+(380,500,o),
+(380,500,o),
 (360,500,cs)
 );
 },
