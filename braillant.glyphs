@@ -2,8 +2,8 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-BLACKLETTER,
-"/_dot Ä"
+"Das ist ein Test
+der schweren Ligaturen "
 );
 classes = (
 {
@@ -22183,7 +22183,7 @@ width = 600;
 },
 {
 glyphname = _dot;
-lastChange = "2025-01-10 16:01:50 +0000";
+lastChange = "2025-02-15 15:27:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -22213,7 +22213,7 @@ nodes = (
 (400,520,cs),
 (400,555,o),
 (395,560,o),
-(360,560,cs),
+(360,560,c),
 (325,560,o),
 (320,555,o),
 (320,520,cs),
